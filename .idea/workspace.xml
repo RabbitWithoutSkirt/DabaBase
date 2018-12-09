@@ -6,7 +6,52 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5009acdf-c822-4764-a869-1f2e3045235a" name="Default" comment="" />
+    <list default="true" id="5009acdf-c822-4764-a869-1f2e3045235a" name="Default" comment="Code Integration">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/controller/Taxi_lineController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dao/Taxi_line_Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/model/Taxi_line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/heatmap-bmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/scatter-life-expectancy-timeline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/data/hangzhou-tracks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/data/life-expectancy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/data/lines-bus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/gridDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/gridDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/taxiDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/taxiDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spatialDB/com/dao/gridDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spatialDB/com/dao/gridDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spatialDB/com/dao/taxiDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spatialDB/com/dao/taxiDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dao/gridDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/gridDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dao/taxiDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/taxiDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/blank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/dropzone.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/dropzone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/error-404.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/error-404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/error-500.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/error-500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/form-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/form-elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/form-wizard.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/form-wizard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/jqgrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/jqgrid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/jquery-ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/jquery-ui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/nestable-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/nestable-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/timeline.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/timeline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/treeview.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/treeview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/widgets.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/widgets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/AceAdmin/wysiwyg.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/wysiwyg.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/controller/gridController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/controller/heatmapController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="217">
               <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -42,40 +87,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/model/grid.java">
+        <entry file="file://$PROJECT_DIR$/src/com/model/Taxi_line.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="270">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding>
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#780#781#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#886#887#0" expanded="true" />
-                <element signature="e#928#929#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dao/gridDao.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dao/Taxi_line_Dao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+            <state relative-caret-position="277">
+              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#423#429#0" expanded="true" />
+                <element signature="e#564#570#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/lines-bus.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dao/gridDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#497#503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/controller/Taxi_lineController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,7 +157,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dao/taxiDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="249">
               <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -93,28 +166,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/model/taxi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-              <folding>
-                <element signature="e#67#68#0" expanded="true" />
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/controller/taxiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="105">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,6 +188,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="guanchen &lt;1026606223@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web/AceAdmin" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -142,7 +205,6 @@
         <option value="$PROJECT_DIR$/src/springmvc-servlet.xml" />
         <option value="$PROJECT_DIR$/src/test/taxiTest.java" />
         <option value="$PROJECT_DIR$/src/com/utils/database.java" />
-        <option value="$PROJECT_DIR$/src/com/dao/taxiDao.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/test/heatmaptext.java" />
         <option value="$PROJECT_DIR$/src/test/database.java" />
@@ -152,6 +214,11 @@
         <option value="$PROJECT_DIR$/src/com/model/grid.java" />
         <option value="$PROJECT_DIR$/src/com/controller/gridController.java" />
         <option value="$PROJECT_DIR$/src/com/dao/gridDao.java" />
+        <option value="$PROJECT_DIR$/src/com/dao/taxiDao.java" />
+        <option value="$PROJECT_DIR$/src/com/model/Taxi_line.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/Taxi_lineController.java" />
+        <option value="$PROJECT_DIR$/src/com/dao/Taxi_line_Dao.java" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html" />
       </list>
     </option>
   </component>
@@ -169,18 +236,19 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="813" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="726" />
+    <option name="width" value="714" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,56 +272,54 @@
               <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
+              <item name="Html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544359677389" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544378120741" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -261,9 +327,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="spring" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/AceAdmin/echarts/Html" />
+      <recent name="$PROJECT_DIR$/web/AceAdmin/echarts/data" />
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="test" />
       <recent name="com.dao" />
@@ -279,7 +350,47 @@
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/Taxi_line" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
           <option name="urlPath" value="/grid" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/Taxi" />
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -482,17 +593,18 @@
       <workItem from="1544340529385" duration="8220000" />
       <workItem from="1544350065066" duration="4433000" />
       <workItem from="1544360983675" duration="1162000" />
+      <workItem from="1544368511010" duration="7757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15825000" />
+    <option name="totallyTimeSpent" value="23582000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829352" visible="true" weight="0.26108727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829352" visible="true" weight="0.26466382" />
       <window_info id="Structure" order="1" sideWeight="0.5017065" side_tool="true" weight="0.25751072" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -502,7 +614,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28674698" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -515,7 +627,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="REST Client" order="15" visible="true" weight="0.36024097" />
+      <window_info anchor="bottom" id="REST Client" order="15" weight="0.36506024" />
       <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -531,6 +643,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code Integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Integration" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
@@ -604,26 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dao/heatmapDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#555#561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/controller/heatmapController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/model/grid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -649,10 +745,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/taxi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dao/heatmapDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dao/taxiDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/controller/taxiController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="105">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/heatmapController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -662,7 +806,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/controller/gridController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -671,40 +815,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dao/gridDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        <state relative-caret-position="209">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#423#429#0" expanded="true" />
+            <element signature="e#497#503#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dao/taxiDao.java">
+    <entry file="file://$PROJECT_DIR$/src/com/model/Taxi_line.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/Taxi_lineController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/model/taxi.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dao/Taxi_line_Dao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="277">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
-            <element signature="e#67#68#0" expanded="true" />
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#564#570#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/lines-bus.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

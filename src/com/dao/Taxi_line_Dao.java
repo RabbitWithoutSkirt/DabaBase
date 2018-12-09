@@ -1,46 +1,47 @@
 package com.dao;
 
-import com.model.taxi;
-import org.springframework.stereotype.Repository;
+import com.model.Taxi_line;
+import com.model.grid;
+import org.springframework.web.bind.annotation.ResponseBody;
 
+import java.sql.Array;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import static com.utils.database.conn;
 
-@Repository
-public class taxiDao {
+@ResponseBody
+public class Taxi_line_Dao {
     Connection connection = null;
 
-    /**
-     * 返回路线图数据
-     * @return
-     */
-    public List<taxi> getTaxi() {
-        PreparedStatement stmt0 = null;
-        ResultSet rs0 = null;
+    public List<List> getTaxi_line(){
         PreparedStatement stmt = null;
         ResultSet rs = null;
-        List<taxi> Taxis = new ArrayList<taxi>();
+        List<List> Taxi_lines= new ArrayList<List>();
         try {
             connection = conn();
-            String sql0;
-            sql0 = "select VehicleID from taxi_all_0h";
-            stmt0 = connection.prepareStatement(sql0);
-
             String sql;
-            sql = "select Lon,Lat,VehicleID from taxi_all_0h group by VehicleID";
+            sql = "select * from route_14h";
             stmt = connection.prepareStatement(sql);
             rs = stmt.executeQuery();
             while(rs.next()){
-                taxi Taxi = new taxi();
-                Taxi.setLon(rs.getString("Lon"));
-                Taxi.setLat(rs.getString("Lat"));
-                Taxi.setVehicleID(rs.getInt("VehicleID"));
-                Taxis.add(Taxi);
+
+                String line;
+                line = rs.getString("LonLat");
+                List<String> list = new ArrayList<>();
+                String str[] = line.split(",");
+                list = Arrays.asList(str);
+
+//                Taxi_line Taxi_line = new Taxi_line();
+//
+//                Taxi_line.setPosition(list);
+//                Taxi_line.setVehicleID(rs.getString("VehicleID"));
+
+                Taxi_lines.add(list);
                 System.out.println("哈哈哈");
             }
             stmt.close();
@@ -57,6 +58,6 @@ public class taxiDao {
                 }
             }
         }
-        return Taxis;
+        return Taxi_lines;
     }
 }

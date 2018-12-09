@@ -1,6 +1,7 @@
 package com.dao;
 
 import com.model.grid;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static com.utils.database.conn;
-
+@ResponseBody
 public class gridDao {
     Connection connection = null;
 
