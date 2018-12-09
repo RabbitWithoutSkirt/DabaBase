@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spatialDB:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spatialDB/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spatialDB" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/BeanUtils/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/dbutils/commons-dbutils-1.7-bin/commons-dbutils-1.7/commons-dbutils-1.7.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/mysql-connector/mysql-connector-java-8.0.11.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/c3p0/c3p0-0.9.5.2.bin/c3p0-0.9.5.2/lib/c3p0-0.9.5.2.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-annotations-2.9.6.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-core-2.9.6.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-core-asl-1.9.13.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-databind-2.9.6.jar" />
+          <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-mapper-asl-1.9.13.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
