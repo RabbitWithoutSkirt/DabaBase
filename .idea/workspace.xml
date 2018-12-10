@@ -7,48 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5009acdf-c822-4764-a869-1f2e3045235a" name="Default" comment="Code Integration">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/wuhan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/data/output2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/data/wuhan.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/js/Echarts3Layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/js/echartsExtent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/js/heatmap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spatialDB_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spatialDB_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/controller/heatmapController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/controller/heatmapController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/controller/taxiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/controller/taxiController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/gridDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/gridDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/model/grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/model/grid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/model/taxi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/model/taxi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/utils/database.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/utils/database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/test/taxiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/test/taxiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spatialDB/com/controller/heatmapController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spatialDB/com/controller/heatmapController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spatialDB/com/dao/gridDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spatialDB/com/dao/gridDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spatialDB/com/model/grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spatialDB/com/model/grid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatialDB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spatialDB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/controller/Taxi_lineController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/controller/Taxi_lineController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/controller/heatmapController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/controller/heatmapController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dao/Taxi_line_Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/Taxi_line_Dao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dao/gridDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/gridDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dao/heatmapDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/heatmapDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/model/Taxi_line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/model/Taxi_line.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/model/grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/model/grid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/model/heat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/model/heat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin/assets/css/ace.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/assets/css/ace.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/assets/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin/assets/js/jquery-2.0.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/assets/js/jquery-2.0.3.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/heatmap-bmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/heatmap-bmap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AceAdmin/jqgrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/AceAdmin/jqgrid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/heatmapDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/dao/heatmapDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/model/heat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spatialDB_war_exploded/WEB-INF/classes/com/model/heat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spatialDB/com/dao/heatmapDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spatialDB/com/dao/heatmapDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spatialDB/com/model/heat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spatialDB/com/model/heat.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -75,35 +38,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/AceAdmin/jqgrid.html">
+        <entry file="file://$PROJECT_DIR$/web/AceAdmin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="1135" column="50" selection-start-line="1135" selection-start-column="46" selection-end-line="1135" selection-end-column="50" />
+            <state relative-caret-position="262">
+              <caret line="840" column="123" lean-forward="true" selection-start-line="839" selection-start-column="40" selection-end-line="840" selection-end-column="123" />
               <folding>
-                <element signature="n#div#1;n#a#0;n#li#4;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <marker date="1544435079756" expanded="true" signature="30255:30340" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/AceAdmin/assets/js/jquery-2.0.3.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="1164" column="33" lean-forward="true" selection-start-line="1164" selection-start-column="33" selection-end-line="1164" selection-end-column="33" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1919#9705#0" />
+                <element signature="e#20336#20342#0" expanded="true" />
+                <element signature="e#35146#35166#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/AceAdmin/assets/js/bootstrap.min.js">
+        <entry file="file://$PROJECT_DIR$/web/AceAdmin/people.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="262">
+              <caret line="198" column="44" lean-forward="true" selection-start-line="198" selection-start-column="44" selection-end-line="198" selection-end-column="44" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/AceAdmin/jqgrid.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11420">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#4;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#11206#11211#0" expanded="true" />
+                <element signature="e#12959#12964#0" expanded="true" />
+                <element signature="e#13667#13672#0" expanded="true" />
+                <element signature="e#15674#15679#0" expanded="true" />
+                <marker date="1544468187563" expanded="true" signature="30334:30419" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,22 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>rowList</find>
-      <find>rowNum</find>
-      <find>refresh</find>
-      <find>EditTable</find>
-      <find>Page</find>
-      <find>Grid-Pager</find>
-      <find>col-xs-12</find>
-      <find>$path_base</find>
-      <find>ui-paging-info</find>
-      <find>ui-pg-</find>
-      <find>grid</find>
-      <find>buttons</find>
-      <find>style_dele</find>
-      <find>style_delete_form</find>
-      <find>style_edit_form</find>
-      <find>8</find>
       <find>tr</find>
       <find>table</find>
       <find>updateActionIcons</find>
@@ -144,6 +104,28 @@
       <find>rowactions</find>
       <find>y.hand</find>
       <find>trigger</find>
+      <find>ACE后台管理系统</find>
+      <find>后台管理系统</find>
+      <find>col-xs-12 col-sm-6 widget-conta</find>
+      <find>row</find>
+      <find>hat demo server is not configured to save the changes</find>
+      <find>Please note</find>
+      <find>grid-pager_right</find>
+      <find>控制台</find>
+      <find>Ace a</find>
+      <find>Geo</find>
+      <find>Jas</find>
+      <find>page-c</find>
+      <find>sidebar-shortcuts-large</find>
+      <find>Ace Admin</find>
+      <find>navbar navbar-default</find>
+      <find>jqGrid</find>
+      <find>page con</find>
+      <find>element</find>
+      <find>Common Buttons</find>
+      <find>其他</find>
+      <find>tree</find>
+      <find>iframe</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -152,10 +134,7 @@
         <option value="guanchen &lt;1026606223@qq.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web/AceAdmin" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response35.json" root0="SKIP_INSPECTION" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -170,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/test/database.java" />
         <option value="$PROJECT_DIR$/src/test/heatmaptest.java" />
         <option value="$PROJECT_DIR$/src/com/dao/taxiDao.java" />
-        <option value="$PROJECT_DIR$/web/AceAdmin/index.html" />
         <option value="$PROJECT_DIR$/src/com/model/grid.java" />
         <option value="$PROJECT_DIR$/src/com/dao/gridDao.java" />
         <option value="$PROJECT_DIR$/web/AceAdmin/assets/css/ace.min.css" />
@@ -179,14 +157,23 @@
         <option value="$PROJECT_DIR$/src/com/model/Taxi_line.java" />
         <option value="$PROJECT_DIR$/src/com/dao/Taxi_line_Dao.java" />
         <option value="$PROJECT_DIR$/src/com/controller/Taxi_lineController.java" />
-        <option value="$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html" />
         <option value="$PROJECT_DIR$/src/com/controller/heatmapController.java" />
         <option value="$PROJECT_DIR$/src/com/model/heat.java" />
         <option value="$PROJECT_DIR$/src/com/dao/heatmapDao.java" />
         <option value="$PROJECT_DIR$/web/AceAdmin/echarts/Html/heatmap-bmap.html" />
-        <option value="$PROJECT_DIR$/web/AceAdmin/jqgrid.html" />
         <option value="$PROJECT_DIR$/web/AceAdmin/assets/js/jquery-2.0.3.min.js" />
         <option value="$PROJECT_DIR$/web/AceAdmin/assets/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/echarts/Html/scatter-life-expectancy-timeline.html" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/echarts/data/Taxi_line.json" />
+        <option value="$USER_HOME$/Downloads/lines-bus.json" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/echarts/data/lines-bus.json" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/jqgrid.html" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/GeoServer.html" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/index.html" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/lines.html" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/heatmap.html" />
+        <option value="$PROJECT_DIR$/web/AceAdmin/people.html" />
       </list>
     </option>
   </component>
@@ -210,11 +197,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="37" />
-    <option name="y" value="36" />
-    <option name="width" value="1441" />
-    <option name="height" value="805" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -224,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -240,33 +226,6 @@
             <path>
               <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -274,21 +233,6 @@
               <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
@@ -296,14 +240,6 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
               <item name="echarts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="AceAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="echarts" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
@@ -313,17 +249,22 @@
               <item name="echarts" type="462c0819:PsiDirectoryNode" />
               <item name="Html" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="taxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spatialDB" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544452823826" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544469763515" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -335,6 +276,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/AceAdmin/echarts/js" />
       <recent name="$PROJECT_DIR$/src/com/model" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -343,10 +285,11 @@
       <recent name="com.controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/web/AceAdmin/echarts/js" />
       <recent name="$PROJECT_DIR$/web/AceAdmin/echarts/data" />
       <recent name="$PROJECT_DIR$/web/AceAdmin/echarts/Html" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/AceAdmin/echarts/js" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -599,7 +542,10 @@
       <workItem from="1544350065066" duration="4433000" />
       <workItem from="1544360983675" duration="1162000" />
       <workItem from="1544368511010" duration="8177000" />
-      <workItem from="1544416565027" duration="20232000" />
+      <workItem from="1544416565027" duration="21024000" />
+      <workItem from="1544455786305" duration="1002000" />
+      <workItem from="1544458210126" duration="1730000" />
+      <workItem from="1544460899666" duration="8323000" />
     </task>
     <task id="LOCAL-00001" summary="Code Integration">
       <created>1544378208793</created>
@@ -615,17 +561,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544378336869</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Code Integration">
+      <created>1544452889548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544452889548</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44234000" />
+    <option name="totallyTimeSpent" value="56081000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="37" width="1440" height="803" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829352" visible="true" weight="0.18454936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829352" visible="true" weight="0.2267525" />
       <window_info id="Structure" order="1" sideWeight="0.5017065" side_tool="true" weight="0.25751072" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -635,7 +588,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09985935" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09638554" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -744,13 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/AceAdmin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="1944" column="19" selection-start-line="1944" selection-start-column="19" selection-end-line="1944" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/AceAdmin/assets/css/ui.jqgrid.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -830,9 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/Html/scatter-life-expectancy-timeline.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/controller/Taxi_lineController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -854,20 +797,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/life-expectancy.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/model/heatmap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -927,38 +860,171 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/lines-bus.json">
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/assets/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/AceAdmin/jqgrid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="1135" column="50" selection-start-line="1135" selection-start-column="46" selection-end-line="1135" selection-end-column="50" />
-          <folding>
-            <element signature="n#div#1;n#a#0;n#li#4;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <marker date="1544435079756" expanded="true" signature="30255:30340" ph="..." />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/AceAdmin/assets/js/jquery-2.0.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="1164" column="33" lean-forward="true" selection-start-line="1164" selection-start-column="33" selection-end-line="1164" selection-end-column="33" />
+          <caret line="1164" column="33" selection-start-line="1164" selection-start-column="33" selection-end-line="1164" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/AceAdmin/assets/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/life-expectancy.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/js/api.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lines-bus.json" />
+    <entry file="file://$PROJECT_DIR$/web/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="300">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/wuhan.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1" column="1223" selection-start-line="1" selection-start-column="1223" selection-end-line="1" selection-end-column="1223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/output2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/Html/lines-bmap-effect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/Taxi_line.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/data/lines-bus.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/Html/scatter-life-expectancy-timeline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/echarts/Html/wuhan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/widgets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="715" column="62" selection-start-line="715" selection-start-column="61" selection-end-line="715" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/hs/service/impl/DocumentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/jqgrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11420">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#4;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11206#11211#0" expanded="true" />
+            <element signature="e#12959#12964#0" expanded="true" />
+            <element signature="e#13667#13672#0" expanded="true" />
+            <element signature="e#15674#15679#0" expanded="true" />
+            <marker date="1544468187563" expanded="true" signature="30334:30419" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/lines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="214" column="51" selection-start-line="214" selection-start-column="51" selection-end-line="214" selection-end-column="51" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/heatmap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="192" column="51" selection-start-line="192" selection-start-column="51" selection-end-line="192" selection-end-column="51" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/GeoServer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="220" column="32" selection-start-line="220" selection-start-column="32" selection-end-line="220" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="840" column="123" lean-forward="true" selection-start-line="839" selection-start-column="40" selection-end-line="840" selection-end-column="123" />
+          <folding>
+            <element signature="e#1919#9705#0" />
+            <element signature="e#20336#20342#0" expanded="true" />
+            <element signature="e#35146#35166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/AceAdmin/people.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="198" column="44" lean-forward="true" selection-start-line="198" selection-start-column="44" selection-end-line="198" selection-end-column="44" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
