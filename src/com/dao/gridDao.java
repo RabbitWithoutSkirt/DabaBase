@@ -31,7 +31,7 @@ public class gridDao {
                 grid.setID(rs.getString("VehicleID"));
                 grid.setName(rs.getString("State"));
                 grid.setNote(rs.getString("Lat"));
-                grid.setSdata(rs.getString("Time"));
+                grid.setSdate(rs.getString("Time"));
                 grid.setShip(rs.getString("Lon"));
                 grid.setStock(rs.getString("Speed"));
                 grids.add(grid);

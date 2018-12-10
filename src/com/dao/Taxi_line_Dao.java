@@ -18,10 +18,10 @@ import static com.utils.database.conn;
 public class Taxi_line_Dao {
     Connection connection = null;
 
-    public List<List> getTaxi_line(){
+    public List<Taxi_line> getTaxi_line(){
         PreparedStatement stmt = null;
         ResultSet rs = null;
-        List<List> Taxi_lines= new ArrayList<List>();
+        List<Taxi_line> Taxi_lines= new ArrayList<Taxi_line>();
         try {
             connection = conn();
             String sql;
@@ -30,19 +30,24 @@ public class Taxi_line_Dao {
             rs = stmt.executeQuery();
             while(rs.next()){
 
-                String line;
-                line = rs.getString("LonLat");
-                List<String> list = new ArrayList<>();
-                String str[] = line.split(",");
-                list = Arrays.asList(str);
+                Taxi_line Taxi_line = new Taxi_line();
+                Taxi_line.setPosition(rs.getString("LonLat"));
+                Taxi_lines.add(Taxi_line);
+
+
+//                double line;
+//                line = rs.getDouble("LonLat");
+//                List list = Arrays.asList(line);
+//                String str[] = line.split(",");
+//                list = Arrays.asList(line);
 
 //                Taxi_line Taxi_line = new Taxi_line();
 //
 //                Taxi_line.setPosition(list);
 //                Taxi_line.setVehicleID(rs.getString("VehicleID"));
-
-                Taxi_lines.add(list);
-                System.out.println("哈哈哈");
+//
+//                Taxi_lines.add(list);
+//                System.out.println("哈哈哈");
             }
             stmt.close();
             connection.close();

@@ -17,11 +17,11 @@ public class heatmapDao {
     Connection connection = null;
 
     /*
-    *
-    * 返回热力图数据
-    *
+     *
+     * 返回热力图数据
+     *
      */
-    public List<heat> getheat(){
+    public List<heat> getheat() {
         PreparedStatement stmt = null;
         ResultSet rs = null;
         List<heat> heats = new ArrayList<heat>();
@@ -31,16 +31,19 @@ public class heatmapDao {
             sql = "select * from heat_map";
             stmt = connection.prepareStatement(sql);
             rs = stmt.executeQuery();
-            while(rs.next()){
+            while (rs.next()) {
                 heat heat = new heat();
                 heatmap heatmap = new heatmap();
-                heat.setNum(rs.getString("Num"));
-                double Position[];
+                List Position = new ArrayList();
 
                 heatmap.setLat(rs.getDouble("Lat"));
                 heatmap.setLon(rs.getDouble("Lon"));
-                Position= new double[]{heatmap.getLon(), heatmap.getLat()};
+                Position.add(heatmap.getLon());
+                Position.add(heatmap.getLat());
+
+
                 heat.setCoord(Position);
+                heat.setElevation(rs.getInt("Num"));
                 heats.add(heat);
                 System.out.println("哈哈哈");
             }

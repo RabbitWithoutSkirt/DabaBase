@@ -6,9 +6,9 @@ import java.util.List;
 public class Taxi_line {
 
 //    private String VehicleID;
-    private List Position;
+    private String Position;
 
-    public List getPosition() {
+    public String getPosition() {
         return Position;
     }
 
@@ -16,7 +16,7 @@ public class Taxi_line {
 //        return VehicleID;
 //    }
 
-    public void setPosition(List position) {
+    public void setPosition(String position) {
         this.Position = position;
     }
 

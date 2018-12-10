@@ -20,14 +20,16 @@ import java.util.Map;
 public class Taxi_lineController {
     @ResponseBody
     @RequestMapping(value = "/Taxi_line",method = RequestMethod.POST)
-    public List<List> Taxi_line(HttpServletResponse response){
+    public Map<String,List> Taxi_line(HttpServletResponse response){
         response.setHeader("Access-Control-Allow-Origin", "*");
         response.setHeader("Access-Control-Allow-Methods", "*");// 设置跨域请求
         Taxi_line_Dao dao = new Taxi_line_Dao();
-        List<List> Taxi_lines = dao.getTaxi_line();
+        List<Taxi_line> Taxi_lines = dao.getTaxi_line();
+        Map<String,List> map = new HashMap<>();
+        map.put("Taxi",Taxi_lines);
 //
 //        Map<String,List> map = new HashMap<>();
 //        map.put("data",Taxi_lines);
-        return Taxi_lines;
+        return map;
     }
 }

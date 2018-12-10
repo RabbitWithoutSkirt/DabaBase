@@ -1,22 +1,24 @@
 package com.model;
 
+import java.util.List;
+
 public class heat {
-    private String Num;
-    private double coord[];
+    private int elevation;
+    private List coord;
 
-    public void setNum(String num) {
-        this.Num = num;
+    public void setElevation(int num) {
+        this.elevation = num;
     }
 
-    public String getNum() {
-        return Num;
+    public int getElevation() {
+        return elevation;
     }
 
-    public double[] getCoord() {
+    public List getCoord() {
         return coord;
     }
 
-    public void setCoord(double[] coord) {
+    public void setCoord(List coord) {
         this.coord = coord;
     }
 }

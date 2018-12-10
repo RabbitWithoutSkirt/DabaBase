@@ -19,6 +19,8 @@
           <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-core-asl-1.9.13.jar" />
           <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-databind-2.9.6.jar" />
           <element id="file-copy" path="D:/IntelliJ IDEA/Jackson/jackson-mapper-asl-1.9.13.jar" />
+          <element id="library" level="project" name="json-20180813" />
+          <element id="library" level="project" name="gson-2.8.5" />
         </element>
       </element>
     </root>

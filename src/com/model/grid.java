@@ -3,7 +3,7 @@ package com.model;
 public class grid {
     public String ID;
     public String name;
-    public String sdata;
+    public String sdate;
     public String ship;
     public String stock;
     public String note;
@@ -28,8 +28,8 @@ public class grid {
         return note;
     }
 
-    public String getSdata() {
-        return sdata;
+    public String getSdate() {
+        return sdate;
     }
 
     public String getShip() {
@@ -44,8 +44,8 @@ public class grid {
         this.note = note;
     }
 
-    public void setSdata(String sdata) {
-        this.sdata = sdata;
+    public void setSdate(String sdate) {
+        this.sdate = sdate;
     }
 
     public void setShip(String ship) {
