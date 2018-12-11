@@ -5,7 +5,7 @@ import java.sql.*;
 public class database {
     public static Connection conn(){
         //定义地址
-        String url="jdbc:mysql://120.79.209.190:3306/spatial%20database?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&autoReconnect=true&failOverReadOnly=false&serverTimezone=UTC";
+        String url="jdbc:mysql://localhost:3306/spatialdatabase?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&autoReconnect=true&failOverReadOnly=false&serverTimezone=UTC";
         String userName = "root";
         String password = "123456";
         //定义连接初始值

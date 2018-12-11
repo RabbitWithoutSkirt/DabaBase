@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="spatialDB">
+    <output-path>$PROJECT_DIR$/out/artifacts/spatialDB</output-path>
+    <root id="archive" name="spatialDB.war">
+      <element id="artifact" artifact-name="spatialDB:war exploded" />
+      <element id="module-output" name="spatialDB" />
+    </root>
+  </artifact>
+</component>

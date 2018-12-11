@@ -23,7 +23,7 @@ public class gridDao {
             String sql;
             int start = 2;
             int endle = 10;
-            sql = "select * from taxi_all_12h limit 0,10";
+            sql = "select * from taxi_all_14h_text";
             stmt = connection.prepareStatement(sql);
             rs = stmt.executeQuery();
             while(rs.next()){
